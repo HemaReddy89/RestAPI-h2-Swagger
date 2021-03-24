@@ -44,7 +44,7 @@ public class RestApiH2Application {
 			      "Some custom description of API.", 
 			      "API TOS", 
 			      "Terms of service", 
-			      new Contact("Hema Reddy", "www.example.com", "hema@tcs.com"), 
+			      new Contact("Hema Reddy", "www.example.com", "hema@abc.com"), 
 			      "License of API", "API license URL", Collections.emptyList());
 			}
 
